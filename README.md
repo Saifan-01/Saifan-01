@@ -82,7 +82,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saifan-01&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  
 </div>
 <br/>
 
@@ -95,5 +95,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saifan-01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Saifan-01&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="48%" />
-</div>
+ 
