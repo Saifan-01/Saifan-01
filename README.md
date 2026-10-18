@@ -15,19 +15,19 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently diving deep into **Version Control, Open-source Projects, and Software Workflows**.
-- 🌱 I’m currently learning and mastering **Git, GitHub, and Cloud Technologies**.
-- 💡 Passionate about managing projects, tracking changes, and collaborating effectively.
-- 🎯 My Goal: Build scalable applications and contribute to impactful open-source projects.
-- ⚡ Fun fact: I love finding new ways to optimize development workflows!
+###  About Me
+-  I’m currently diving deep into **Version Control, Open-source Projects, and Software Workflows**.
+-  I’m currently learning and mastering **Git, GitHub, and Cloud Technologies**.
+-  Passionate about managing projects, tracking changes, and collaborating effectively.
+-  My Goal: Build scalable applications and contribute to impactful open-source projects.
+-  Fun fact: I love finding new ways to optimize development workflows!
 
 ---
 
-### 💻 Tech Arsenal
+### Tech Arsenal
 
 <details>
-<summary><b>🛠️ Programming Languages</b></summary>
+<summary><b> Programming Languages</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary><b>🧠 Data Science & Machine Learning</b></summary>
+<summary><b> Data Science & Machine Learning</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Cloud</b></summary>
+<summary><b> Databases & Cloud</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -79,7 +79,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   
